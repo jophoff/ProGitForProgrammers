@@ -8,8 +8,8 @@ namespace ProGitForProgrammers
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("New line of code");
-	    Console.WriteLine("A final line of code is added");
-	    Console.WriteLine("Change to test skipping the staging area");
+	        Console.WriteLine("A final line of code is added");
+	        Console.WriteLine("Change made in GitHub Desktop");
         }
     }
 }
